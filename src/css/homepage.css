@@ -1,0 +1,28 @@
+.searchbar{
+    display: flex;
+    width: 60%;
+    margin: auto;
+}
+
+.searchbar input{
+    width: 60%;
+}
+
+.searchbar button{
+    width: 20%;
+}
+
+.welcome-message{
+    text-align: center;
+}
+
+.countries{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin: 100px;
+}
+
+.card{
+
+}
